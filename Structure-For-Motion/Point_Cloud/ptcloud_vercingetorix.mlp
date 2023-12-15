@@ -1,0 +1,12 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="sparse_ptcloud.ply" visible="1" filename="sparse_ptcloud.ply" idInFile="-1">
+   <MLMatrix44>
+1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+</MLMatrix44>
+   <RenderingOption solidColor="192 192 192 255" boxColor="234 234 234 255" wireColor="64 64 64 255" pointSize="3" wireWidth="1" pointColor="252 233 79 255">000111010000000000000000000000000000000010100000000100111010110000001101</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
