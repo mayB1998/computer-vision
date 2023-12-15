@@ -7,7 +7,7 @@ Visual odometry is the process of determining the position and orientation of a 
 
 ### Video demo
 
-https://github.com/mayb1998/Visual_Odometry/media/
+https://github.com/mayb1998/computer-vision/Stereo-Visual_Odometry/media/
 
 
 ### Algorithm descriptions
